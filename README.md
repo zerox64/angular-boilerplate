@@ -1,6 +1,6 @@
-# ▶️ EasyAngular
+# Angular Boilerplate
 
-Welcome to the EasyAngular boilerplate! This project is designed to help you quickly start a new **Angular 18** project with **Bootstrap 5** and various useful libraries. It comes with pre-coded elements to streamline your development process.
+Welcome to the Angular boilerplate! This project is designed to help you quickly start a new **Angular 18** project with **Bootstrap 5** and various useful libraries. It comes with pre-coded elements to streamline your development process.
 
 ## Getting started
 ### Prerequisites
